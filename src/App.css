@@ -1,0 +1,24 @@
+li.page-item > a:focus,
+li.page-item > a:hover,
+li.page-item > a.page-link > span:focus,
+li.page-item > a.page-link > span:hover {
+  background-color: skyblue;
+  transition: all 0.2s;
+}
+
+ul.pagination > li.page-item > a.page-link {
+  color: #17a2b8;
+}
+ul.pagination > li.page-item.active > a.page-link {
+  background-color: #17a2b8;
+  color: whitesmoke;
+  border-color: darkblue;
+}
+
+header > nav {
+  background-color: whitesmoke;
+}
+
+main {
+  min-height: 85vh;
+}

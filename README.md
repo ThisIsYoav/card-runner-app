@@ -2,7 +2,7 @@
 # CardRunner App
 
 ## Description
-Works alongside CardRunner API
+Works alongside [CardRunner API](https://github.com/ThisIsYoav/card-runner-api)
 
 Uses React and Bootstrap 4.
 

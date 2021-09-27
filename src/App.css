@@ -22,3 +22,8 @@ header > nav {
 main {
   min-height: 85vh;
 }
+
+.card-image{
+	height: 12rem;
+	overflow: hidden;
+}
